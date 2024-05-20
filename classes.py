@@ -1,4 +1,4 @@
-class Car():
+class Car:
     fuel = 100
     isOn = False
     
